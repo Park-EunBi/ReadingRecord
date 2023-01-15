@@ -9,10 +9,10 @@
 
 ### 👩‍💻 팀원
 
-- 김유정
-- 박은비
-- 유다영
-- 구연우
+- [김유정](https://github.com/yujeongkimm)   
+- [구연우](https://github.com/oownoey)  
+- [박은비](https://github.com/Park-EunBi)  
+- [유다영](https://github.com/allzeroyou) 
 
 ### ⏰ 기록
 
